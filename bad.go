@@ -1,4 +1,4 @@
-package bad_swagger_tags_test
+package bad_swagger_tags
 
 import "fmt"
 
